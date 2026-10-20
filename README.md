@@ -49,6 +49,5 @@ Then open the notebook and run the cells in order. The FAQ PDF is downloaded aut
   - Moved the API key out of the code into an environment variable
   - Implemented the Daily Dish chatbot (Steps 3–8), which was left empty in the lab notebook
   - Kept the course PDF out of the repository; the notebook downloads it from the original source
-- Developed with the help of an AI coding assistant (Claude).
 
 Course material remains the property of its authors. This repository is shared for educational purposes.
